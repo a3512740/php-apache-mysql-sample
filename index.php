@@ -19,7 +19,7 @@ $contacts = $db->all();
     <title>PHP-Apache-Mysql-Sample 示例 - DaoCloud</title>
 
     <link href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-
+    <img src="./QQ20160805-0@2x.png" align="center">
     <style>
         body {
             margin: 0;
